@@ -1,8 +1,11 @@
 [package]
-name = "token-jwt-rs"
+name = "token-claims"
 version = "0.1.0"
 edition = "2024"
-
+description = "A Rust library for ergonomic handling of JWT claims with strong typing and builder support."
+license-file = "LICENSE"
+repository = "https://github.com/oblivisheee/token-claims"
+authors = ["Oleg Pogoraev <contact@oblivisheee.me>"]
 [dependencies]
 base64 = "0.22.1"
 chrono = "0.4.41"

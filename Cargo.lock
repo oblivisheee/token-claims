@@ -526,7 +526,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "token-jwt-rs"
+name = "token-claims"
 version = "0.1.0"
 dependencies = [
  "base64",
