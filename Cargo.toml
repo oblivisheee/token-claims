@@ -7,7 +7,7 @@ license-file = "LICENSE"
 repository = "https://github.com/oblivisheee/token-claims"
 authors = ["Oleg Pogoraev <contact@oblivisheee.me>"]
 readme = "README.md"
-keywords = ["JWT", "claims", "builder", "serde", "json", "msgpack"]
+keywords = ["JWT", "claims", "json", "msgpack"]
 
 [dependencies]
 base64 = "0.22.1"
